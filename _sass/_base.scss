@@ -1,0 +1,269 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+/*
+* {
+    box-sizing: border-box;
+}
+*/
+
+
+
+/**
+ * Basic styling
+ */
+body {
+    font-family: $serif;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: normal;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, li, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl {
+    @include media-query($on-laptop){
+        padding: 0 ($spacing-unit * 1.5);
+    }
+    @include media-query($on-palm){
+        padding: 0 $spacing-unit;
+    }
+}
+
+.post-content h2, .post-content h3,
+.post-content h4, .post-content h5,
+.post-content h6, .home, p, .post-content ul,
+.post-content ol {
+    max-width: 46rem;
+    margin: 0 auto;
+}
+
+
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: $small-font-size;
+}
+
+
+
+/**
+ * Lists
+ */
+ul, ol {
+    margin-left: $spacing-unit;
+}
+
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
+}
+
+
+
+/**
+ * Headings
+ */
+ 
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+    font-family: $base-font-family;
+}
+
+
+
+/**
+ * Links
+ */
+a {
+    color: $text-color;
+    text-decoration: none;
+    transition: color .15s ease;
+    position: relative;
+
+    &:visited {
+        color: $grey-color;
+    }
+
+    &:hover {
+        color: $brand-color;
+    }
+    
+    &:hover::after {
+       bottom: -2px; 
+    }
+}
+
+p a:after {
+      content: "";
+      position: absolute;
+      bottom: 2px;
+      left: 0;
+      height: 1px;
+      width: 100%;
+      background: $brand-color;
+      transition: all .15s ease;
+      z-index: -1;
+     }
+
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: #000;;
+    border-left: 4px solid $brand-color;
+    padding-left: $spacing-unit * 2;
+    margin: $spacing-unit auto;
+    max-width: 80rem;
+    box-sizing: border-box;
+
+    font-size: 1.563em;
+    font-weight: bold;
+    ;
+    p {
+        max-width: 80rem
+    }
+    
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+/*
+.post-content p img {
+    max-width: inherit;
+}
+*/
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+    font-size: 1.375rem;
+    background-color: $grey-color-light;
+}
+
+code {
+    // padding: 1px 5px;
+    // border: 1px solid $grey-color-light;
+    // border-radius: 3px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+    margin: $spacing-unit 0;
+    
+    @include media-query($on-laptop){
+        padding: 8px ($spacing-unit * 2);
+    }
+    
+    @include media-query($on-palm) {
+        padding: 8px $spacing-unit;
+    }
+
+    > code {
+        display: block;
+        border: 0;
+        max-width: 46rem;
+        margin: 0 auto;
+        background-color: inherit;
+        font-size: 1rem;
+    }
+}
+
+
+
+/**
+ * Wrapper
+ */
+.wrapper {
+    max-width: 80rem;
+    margin: 0 auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+
+
+/**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
+}
