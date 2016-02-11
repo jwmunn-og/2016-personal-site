@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Work
+excerpt: Meta description goes here
 nav: yes
 ---
 

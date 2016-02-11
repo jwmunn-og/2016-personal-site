@@ -1,10 +1,8 @@
 # Site settings
 title: Justin Munn
-email: design@domain.com
+email: design@justinwmunn.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  &copy; 2014&mdash;2016 all rights reserved. Designed &amp; built by Justin Munn. Powered by <a href="https://jekyllrb.com/">Jekyll</a>, type served by <a href="http://typekit.com/">Typekit</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://justinwmunn.co" # the base hostname & protocol for your site
 twitter_username: jwmunn

@@ -2,6 +2,7 @@
 layout: page
 title: About
 nav: yes
+excerpt: Meta description goes here
 permalink: /about/
 bg: "background: #FF8008; /* fallback for old browsers */
 background: -webkit-linear-gradient(to top, #FF8008 , #FFC837); /* Chrome 10-25, Safari 5.1-6 */

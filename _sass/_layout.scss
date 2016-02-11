@@ -37,10 +37,10 @@
     }
 
     .page-link {
-        color: rgba($text-color, .6);
+        color: rgba($dark, .6);
         line-height: $base-line-height;
         &:hover {
-            color: rgba($text-color, 1)
+            color: rgba($dark, 1)
         }
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -101,13 +101,47 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background: #333;
+    background: $dark;
     font-family: $base-font-family;
+    
+    a {
+        color: $grey-color;
+        &:hover {
+            color: $brand-color;
+        }
+    }
+    
+    li {
+        margin-bottom: 0;
+    }
 }
+
+.text {
+    z-index: 2;
+    a:hover:after {
+        bottom: -2px;
+        background: $brand-color;
+    }
+}
+
+.text a:after {
+            content: "";
+            position: absolute;
+            bottom: 2px;
+            left: 0;
+            height: 1px;
+            width: 100%;
+            background: $grey-color;
+            transition: all .15s ease;
+            z-index: 1;
+        }
 
 .footer-heading {
     font-size: 1.25em;
     margin-bottom: $spacing-unit / 2;
+    color: $brand-color;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 .contact-list,

@@ -24,7 +24,7 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: normal;
-    color: $text-color;
+    color: $dark;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $text-color;
+    color: $dark;
     text-decoration: none;
     transition: color .15s ease;
     position: relative;
@@ -132,7 +132,7 @@ a {
         color: $brand-color;
     }
     
-    &:hover::after {
+    &:hover:after {
        bottom: -2px; 
     }
 }
