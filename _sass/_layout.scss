@@ -274,4 +274,9 @@ p.post-meta {
 
 #logo {
     height: 5rem;
+    opacity: .8;
+    transition: opacity .2s ease;
+    &:hover {
+        opacity: 1;
+    }
 }

@@ -5,7 +5,7 @@ date:   2015-03-11 12:00:00
 permalink: thoughts/transition
 tags: Remote work
 excerpt: <p>Susan and I have talked in-depth many times about what kind of life we want to build. She changed careers a few years ago to become a nurse. Since then, she has always had an itch to do travel nursing. It seemed like a risky pursuit and I had no idea how I would fit into that equation so we let it simmer.</p>
-bg: "#70e1f5 url('/images/staring-into-unknown.png') no-repeat center 60px;"
+bg: "#fff url('/images/staring-into-unknown.png') no-repeat center 40px; background-size: 75%;"
 ---
 
 				
