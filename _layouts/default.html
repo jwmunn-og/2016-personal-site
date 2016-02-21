@@ -3,8 +3,13 @@
 
   {% include head.html %}
 
+  {% if page.title == 'Home' %}
+  <body class="light-grey">
+  {% elsif page.title == 'Blog' %}
+  <body class="light-grey">
+  {% else %}
   <body>
-
+  {% endif %}
     {% include header.html %}
 
     <div class="page-content">

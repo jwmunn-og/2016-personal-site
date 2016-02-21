@@ -2,7 +2,7 @@
 layout: post
 title: Eridani Crops
 excerpt: Meta description goes here
-permalink: work/eridani-crops/
+permalink: /eridani-crops/
 ---
 
 <figure class="overlap">

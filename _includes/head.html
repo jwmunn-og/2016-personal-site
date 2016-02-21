@@ -18,6 +18,18 @@
     </style>
   {% endif %}
   
+  {% if site.posts.first.archive-img %}
+  <style>
+    #post-img {
+        width: 100%;
+        padding-top: 75%;
+        background: #828282 url('{{ site.posts.first.archive-img }}') no-repeat center center;
+        background-size: cover;
+        height: 0;
+    }
+  </style>
+  {% endif %}
+  
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   
