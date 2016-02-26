@@ -31,7 +31,7 @@ $grid-spacing:3%;
 	align-items: center;
 }
 
-.centered p, .centered img {
+.centered p:last-child, .centered img {
     margin-top: auto;
     margin-bottom: auto;
 }

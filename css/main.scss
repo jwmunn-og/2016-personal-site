@@ -53,3 +53,14 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, .entry-content {
+    @include media-query($on-laptop){
+        padding: 0 ($spacing-unit * 1.5);
+    }
+    @include media-query($on-palm){
+        padding: 0 ($spacing-unit / 4);
+    }
+}

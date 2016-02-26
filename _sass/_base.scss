@@ -41,17 +41,6 @@ ul, ol, dl, li, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl {
-    @include media-query($on-laptop){
-        padding: 0 ($spacing-unit * 1.5);
-    }
-    @include media-query($on-palm){
-        padding: 0 $spacing-unit;
-    }
-}
-
 h1 {
     font-size: 4.125rem; // 66px
 }
@@ -177,7 +166,7 @@ p a:after {
 /**
  * Blockquotes
  */
-blockquote {
+.post-content blockquote {
     color: #000;;
     border-left: 4px solid $brand-color;
     padding-left: $spacing-unit * 2;
@@ -189,7 +178,8 @@ blockquote {
     font-weight: bold;
     ;
     p {
-        max-width: 80rem
+        max-width: 80rem;
+        margin: 0;
     }
     
     > :last-child {

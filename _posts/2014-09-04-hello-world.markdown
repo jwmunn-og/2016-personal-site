@@ -4,7 +4,8 @@ title:  Hello World
 date:   2014-09-04 12:00:00
 permalink: thoughts/hello-world
 tags: Introductions
-excerpt: <p>It's been over 4 years since I emerged wide-eyed from undergrad. With this newest version of my website I wanted show my path and give an introduction to Justin the person, a side that has been shy in showing itself in the cybersphere until lately.</p>        
+archive-img: "http://localhost:4000/images/hello-world.png"
+excerpt: It's been over 4 years since I emerged wide-eyed from undergrad. With this newest version of my website I wanted show my path and give an introduction to Justin the person    
 ---
 				
 It's been over 4 years since I emerged wide-eyed from undergrad. With this newest version of my website I wanted show my path and give an introduction to Justin the person, a side that has been shy in showing itself in the cybersphere until lately.
