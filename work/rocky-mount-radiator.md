@@ -13,9 +13,9 @@ background: linear-gradient(to bottom, #CA302A , #972620);"
     </figure>
     
     
-    <p>Rocky Mount Radiator and A/C is an expanding family business that was founded by Rocky Mount native Godfrey Giddeons in 1927. They are beginning to move their local business into two more niche markets and needed a logo system to tie all three brands together as they move forward.</p>
+    <p><strong>Rocky Mount Radiator</strong> and A/C is an expanding family business that was founded by Rocky Mount native Godfrey Giddeons in 1927. They are beginning to move their local business into two more niche markets and needed a logo system to tie all three brands together as they move forward.</p>
 
-    <h4 class="light-grey">Role: Logo System Design</h4>
+    <h4 class="light-grey">Role: Logo Design</h4>
 </section>
 
 <section>
@@ -39,7 +39,7 @@ background: linear-gradient(to bottom, #CA302A , #972620);"
     
     <p>All logotypes are cusomized versions of Montserrat Bold. The typeface was chosen for it’s circular geometry which served to match with both the circular make-up of the Rocky Mount Radiator mark as well as substitute as tires in the Carolina Clean Diesel logotype. The consistent typeface treatment throughout the 3 logotypes creates a cohesive company system tying the two sub-companies into the parent company.</p>
     
-    <p>For related colateral, in print or web, Montserrat will be used for headlines and can be paired with Roboto for body text. This type pairing gives a clean and consistent look to all future brand materials.</p>
+    <p>For related colatteral, in print or web, Montserrat will be used for headlines and can be paired with Roboto for body text. This type pairing gives a clean and consistent look to all future brand materials.</p>
     
     <figure>
         <img src="/images/rm-radiator/typography.svg" alt="Rocky Mount Radiator Typography" />
