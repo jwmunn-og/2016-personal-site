@@ -6,10 +6,15 @@ permalink: thoughts/transition
 tags: [remote]
 archive-img: "/images/staring-into-unknown.png"
 excerpt: Susan and I have talked in-depth many times about what kind of life we want to build. She changed careers a few years ago to become a nurse. Since then, she has always had an itch to do travel nursing. It seemed like a risky pursuit
-bg: "#fff url('/images/staring-into-unknown.png') no-repeat center 40px; background-size: 75%;"
+bg: "#D1913C;
+background: -webkit-linear-gradient(to left, #D1913C , #FFD194);
+background: linear-gradient(to left, #D1913C , #FFD194);"
 ---
 
 				
+<figure>
+    <img src="/images/staring-into-unknown.png" alt="Staring into the unknown" />
+</figure>
 
 The past year has been one of new beginnings and a transition into a new lifestyle for my wife and I.
 
@@ -21,7 +26,7 @@ Susan and I have talked in-depth many times about what kind of life we want to b
 
 Last April I won a ticket drawing to Creative South 2014 through my friend [Lenny Terenzi](http://www.heymonkeydesign.com/). It was a weekend full of creative inspiration and honest conversations. There were two talks that stuck with me and helped shift my perspective.
 
-First was Ben Jenkin’s [Live Slow. Make Fast](https://teamtreehouse.com/library/liveslowmakefast)
+First was Ben Jenkin’s [Live Slow. Make Fast](https://teamtreehouse.com/library/liveslowmakefast/)
 
 -   Purge the excess. What in life makes you happy? What are your essentials?
 -   The creative lifestyle can be mobile and sustainable.
@@ -30,7 +35,7 @@ First was Ben Jenkin’s [Live Slow. Make Fast](https://teamtreehouse.com/librar
 
 Ben’s talk was my first glimpse into what my work life could look like if I pulled the plug and followed Susan around the country. We live in a beautiful age where a laptop and internet connection equal nomadic stability. I still haven’t manifested the 888 lifestyle but I’m working towards it.
 
-The other talk was Elle Luna’s [The Crossroads of Should and Must](https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0)
+The other talk was Elle Luna’s [The Crossroads of Should and Must](https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0/)
 
 - There are two paths in life: should and must
 - Should is the path others expect from you. What you ought to do, should or shouldn’t say. It is a smooth path layered with the expectations of those around you with little risk.
