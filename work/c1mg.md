@@ -44,10 +44,15 @@ background: linear-gradient(to right, #0067B1 , #0076c9);"
     <p>Since C1 is a small operation with a focus on personal attention. The main typeface needed to feel sturdy and dependable but have its own personality. The angled bowls and terminals of Strattum 1 by <a href="http://processtypefoundry.com/">Process Type Foundry</a> are apparent enough to play well with professional sports branding and athletes. However since C1 is not just a niche athlete firm, it remains professional enough to work in other industries and look at home on corporate letterhead.</p>
     
     <p>For presentations, slide decks, and printed material Strattum 1 is reserved for the logo and headlines then paired with Lato for all other copy. This system creates a clean, professional look with a modern, bespoke personality.</p>
-    
-    <figure>
-        <img src="/images/c1mg/typography.svg" alt="C1 Marketing Group Typography" />
-    </figure>
+
+    <div class="row centered">
+        <div class="half">
+            <img src="/images/c1mg/typography1.svg" alt="Primary Typeface" />
+        </div>
+        <div class="half">
+            <img src="/images/c1mg/typography2.svg" alt="Alternate Typeface" />
+        </div>
+    </div>
 
 </section>
 <section>

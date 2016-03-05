@@ -41,9 +41,14 @@ background: linear-gradient(to right, #CA302A , #972620);"
     
     <p>For related colatteral, in print or web, Montserrat will be used for headlines and can be paired with Roboto for body text. This type pairing gives a clean and consistent look to all future brand materials.</p>
     
-    <figure>
-        <img src="/images/rm-radiator/typography.svg" alt="Rocky Mount Radiator Typography" />
-    </figure>
+    <div class="row centered">
+        <div class="half">
+            <img src="/images/rm-radiator/typography1.svg" alt="Primary Typeface" />
+        </div>
+        <div class="half">
+            <img src="/images/rm-radiator/typography2.svg" alt="Alternate Typeface" />
+        </div>
+    </div>
 
 </section>
 
