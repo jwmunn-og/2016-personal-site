@@ -87,7 +87,7 @@ excerpt: Meta description goes here
             <div class="col-8">
                 <h2>{{ post.title }}</h2>
                 <h5>Tags: {% if post.tags %}{{ post.tags | join: ', ' }}{% endif %}</h5>
-                <div class="entry-content med-hide">{{ post.excerpt }}&hellip;</div>
+                <div class="entry-content med-hide"><p>{{ post.excerpt }}&hellip;</p></div>
                 <p><a href="{{ root_url }}{{ post.url }}">Read<span class="med-hide"> More</span></a></p>
             </div>
         </div>
