@@ -6,8 +6,8 @@ excerpt: Meta description goes here
 ---
 <div class="home-heading">
     <div class="wrapper">
-        <h1><strong>Hey I&rsquo;m Justin.</strong><br />A nomad that builds custom websites and designs logo systems.</h1>
-        <h3><a href="https://twitter.com/jwmunn">Twitter</a> &middot <a href="https://dribbble.com/jwmunn">Dribbble</a> &middot <a href="https://github.com/jwmunn">Github</a> &middot <a href="https://www.instagram.com/jwmunn/">Instagram</a></h3>
+        <h1><strong><span class="mob-hide">Hey </span>I&rsquo;m Justin.</strong><br />A nomad that builds custom websites and designs logo systems.</h1>
+        <h3><a href="https://twitter.com/jwmunn">Twitter</a> &middot <a href="https://dribbble.com/jwmunn">Dribbble</a> &middot <a href="https://github.com/jwmunn">Github</a> &middot <a href="https://www.instagram.com/jwmunn/">Instagram</a> &middot <a href="https://www.linkedin.com/in/jwmunn">LinkedIn</a> &middot <a href="mailto:contact@justinmunn.co">Email</a></h3>
         <!-- <img src="/images/hidden-lake-lookout.jpg" /> -->
     </div>
 </div>
@@ -17,60 +17,60 @@ excerpt: Meta description goes here
         <h3 class="section-title">Side Project</h3>
         <div class="row centered card" onclick="location.href='http://pathfinderhikes.com';">
             <div class="half">
-                <img src="https://d13yacurqjgara.cloudfront.net/users/317483/screenshots/2061522/pathfinder-logo.gif" alt="responsive layouts" />
+                <img src="/images/pathfinder-thumb.gif" alt="Pathfinder" />
             </div>
             <div class="half">
                 <h2>Pathfinder</h2>
-                <p>Trying to get all the details together to go on a hike can be a real pain. Directions, weather, permits, mileage and elevation.</p>
-                <p><a href="http://pathfinderhikes.com">Visit the site&rarr;</a></p>
+                <p><span class="med-hide">Trying to get all the details together to go on a hike can be a real pain. Directions, weather, permits, mileage and elevation are spread across the web.</span> We&rsquo;re building a web app to build and save custom thru-hikes and loops<span class="med-hide">, all while giving you a snapshot of the info you need to get to the trailhead. <strong>Plan&nbsp;quicker, hike farther.</strong> <em>Coming 2016</em>.</span></p>
+                <p><a href="http://pathfinderhikes.com">Visit the site</a></p>
             </div>
         </div>
     </section>
     
     <section>
-        <h3 class="section-title">Recent Work</h3>
+        <h3 class="section-title">Select Work</h3>
         <div class="row">
             <div class="half work card">
                 <a href="/rocky-mount-radiator/">
-                    <img src="http://unsplash.it/640/480/?image=0" alt="responsive layouts" />
+                    <img src="/images/rm-radiator-thumb.jpg" alt="Rocky Mount Radiator" />
                     <h3>Rocky Mount Radiator</h3>
-                    <h5>Design  &middot; Branding</h5>
+                    <h5>Logo Design</h5>
                 </a>
                 <a href="/rocky-mount-radiator/">View Project</a>
             </div>
             <div class="half work card">
                 <a href="/web101/">
-                    <img src="http://unsplash.it/640/480/?image=10" alt="responsive layouts" />
+                    <img src="/images/web101-thumb.jpg" alt="Web101" />
                     <h3>Web101</h3>
-                    <h5>Design  &middot; Branding</h5>
+                    <h5>Logo Design &middot; Front-End Development<span class="med-hide"> &middot; Organizer &middot; Speaker</span></h5>
                 </a>
                 <a href="/web101/">View Project</a>
             </div>
         </div>
         <div class="row centered">
             <div class="col-4 work card">
-                <a href="#">
-                    <img src="http://unsplash.it/640/480/?image=20" alt="responsive layouts" />
+                <a href="/c1mg/">
+                    <img src="/images/c1mg-thumb.jpg" alt="Web101" />
                     <h3>C1 Marketing Group</h3>
-                    <h5>Design  &middot; Branding</h5>
+                    <h5><span class="med-hide">Logo </span>Design &middot; <span class="med-hide">Front-End </span>Development</h5>
                 </a>
-                <a href="#">View Project</a>
+                <a href="/c1mg/">View Project</a>
             </div>
             <div class="col-4 work card">
                 <a href="/eridani-crops/">
-                    <img src="http://unsplash.it/640/480/?image=30" alt="responsive layouts" />
+                    <img src="/images/eridani-thumb.jpg" alt="Web101" />
                     <h3>Eridani Crops</h3>
-                    <h5>Design  &middot; Branding</h5>
-                </a>
-                <a href="#">View Project</a>
-            </div>
-            <div class="col-4 work card">
-                <a href="{{ site.baseurl }}/eridani-crops">
-                    <img src="http://unsplash.it/640/480/?image=40" alt="responsive layouts" />
-                    <h3>TaylorMade PreOwned</h3>
-                    <h5>Design  &middot; Branding</h5>
+                    <h5>Design &middot; <span class="med-hide">Front-end </span>Development <span class="med-hide"> &middot; Illustration</span></h5>
                 </a>
                 <a href="/eridani-crops/">View Project</a>
+            </div>
+            <div class="col-4 work card">
+                <a href="/taylormade-preowned/">
+                    <img src="/images/tmpo-thumb.jpg" alt="Web101" />
+                    <h3>TaylorMade PreOwned</h3>
+                    <h5>Design  &middot; <span class="med-hide">HTML Email </span>Development</h5>
+                </a>
+                <a href="/taylormade-preowned/">View Project</a>
             </div>
         </div>
     </section>
@@ -87,8 +87,8 @@ excerpt: Meta description goes here
             <div class="col-8">
                 <h2>{{ post.title }}</h2>
                 <h5>Tags: {% if post.tags %}{{ post.tags | join: ', ' }}{% endif %}</h5>
-                <div class="entry-content">{{ post.excerpt }}&hellip;</div>
-                <p><a href="{{ root_url }}{{ post.url }}">Read More</a></p>
+                <div class="entry-content med-hide">{{ post.excerpt }}&hellip;</div>
+                <p><a href="{{ root_url }}{{ post.url }}">Read<span class="med-hide"> More</span></a></p>
             </div>
         </div>
     </section>

@@ -9,27 +9,32 @@
     // Positioning context for the mobile navigation icon
     position: relative;
     padding-top: $spacing-unit;
+    @include media-query($on-palm){
+        padding-top: 0;
+    }
     
 }
 
 .site-title {
     font-family: $base-font-family;
     font-weight: normal;
-    color: rgba($dark, .6);
+    color: $dark;
+    opacity: .6;
     font-size: 1.563em;
-    line-height: 56px;
+    line-height: 74px;
     margin-bottom: 0;
     float: left;
+    transition: opacity .2s ease-in-out;
 
     &:hover {
-        color: rgba($dark, 1);
+        color: $dark;
         opacity: 1;
     }
 }
 
 .site-nav {
     float: right;
-    line-height: 80px;
+    line-height: 74px;
     font-family: $base-font-family;
     font-weight: normal;
     font-size: 1.563em;
@@ -48,10 +53,14 @@
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: $spacing-unit * 2;
+            @include media-query($on-palm){
+                margin-left: $spacing-unit / 2;
+            }
         }
     }
 
-    @include media-query($on-palm) {
+    /*
+@include media-query($on-palm) {
         position: absolute;
         top: 9px;
         right: 30px;
@@ -94,6 +103,7 @@
             padding: 5px 10px;
         }
     }
+*/
 }
 
 
@@ -218,10 +228,16 @@
  
  .overlap {
      margin-top: $spacing-unit * -6;
+     @include media-query($on-palm){
+         margin-top: -5rem;
+     }
  }
  
 .page-content {
     padding: $spacing-unit 0;
+    @include media-query($on-palm) {
+        padding: 0;
+    }
 }
 
 .post-content ul, .post-content ol {
@@ -285,11 +301,21 @@ p.post-meta {
 .post-header, .page-heading {
     margin-bottom: $spacing-unit;
     margin-bottom: 2rem;
-    margin-top: -10%;
-    padding-top: 15%;
-    padding-bottom: 10%;
+    margin-top: -20%;
+    padding-top: 25%;
+    padding-bottom: 20%;
     background-color: $brand-color;
     background-size: cover;
+    @media screen and (min-width: 80em){
+        margin-top: -20%;
+        padding-top: 25%;
+        padding-bottom: 15%;
+    }
+    @include media-query($on-laptop){
+        margin-top: -30%;
+        padding-top: 40%;
+        padding-bottom: 25%;
+    }
 }
 
 .post-title, .page-heading {
@@ -346,10 +372,8 @@ p.post-meta {
 
 #logo {
     height: 5rem;
-    opacity: .8;
-    transition: opacity .2s ease;
-    &:hover {
-        opacity: 1;
+    @include media-query($on-palm) {
+        height: 4rem;
     }
 }
 
@@ -391,6 +415,9 @@ p.post-meta {
 
 .half ol {
     padding: 0;
+    @include media-query($on-palm){
+        padding: 0 $spacing-unit;
+    }
 }
 
 .more {
@@ -484,29 +511,46 @@ h5 {
 h4.light-grey {
     padding: ($spacing-unit / 2) $spacing-unit;
     font-weight: normal;
+    @include media-query($on-palm){
+        padding: ($spacing-unit / 2) ($spacing-unit / 2);
+    }
 }
 
 .home-heading {
     margin-bottom: $spacing-unit;
     margin-bottom: 2rem;
-    margin-top: -10%;
-    padding-top: 15%;
+    margin-top: -20%;
+    padding-top: 25%;
     padding-bottom: 2%;
+    background-color: $brand-color;
+    background: $brand-color url('/images/hp-bg.jpg') no-repeat 100% 100%;
     
-    // background: $brand-color;
-    // background: url('/images/hidden-lake-lookout-color.jpg') no-repeat top right;        
+    @include media-query($on-palm){
+        margin-top: -40%;
+        padding-top: 40%;
+         background: $brand-color url('/images/hp-bg-sm.jpg') no-repeat top right;
+         background-size: cover;
+    }
+    @include media-query($on-laptop){
+        margin-top: -40%;
+        padding-top: 40%;
+         background: $brand-color url('/images/hp-bg-sm.jpg') no-repeat top right;
+         background-size: cover;
+    }        
     // background-size: cover;
     h1 {
         font-family: $serif;
         font-weight: normal;
-        font-size: 4.125rem;
         // color: $background-color;
         // text-shadow: rgba(0,0,0,.1) 0px 2px 4px;
     }
     
-    h3 {
+    h3 a {
         color: rgba($dark, .6);
-        font-weight: normal; 
+        font-weight: normal;
+        &:hover {
+            color: rgba($dark, 1);
+        } 
     }
 }
 
@@ -523,11 +567,33 @@ section {
     border-bottom: 2px solid $grey-color-light;
     padding-bottom: $spacing-unit;
     margin-bottom: $spacing-unit * 2;
+    @include media-query($on-palm){
+        margin-bottom: $spacing-unit;
+    }
+    
+    &:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+}
+
+.divider {
+    border-bottom: 2px solid $grey-color-light;
+    padding-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 2;
 }
 
 .client-img {
     width: 100px !important;
     height: 100px !important;
+    @include media-query($on-palm){
+        width: 50px !important;
+        height: 50px !important;
+        display: block;
+        float: left;
+        padding-right: $spacing-unit / 4;
+    }
 }
 
 p.wrapper {
@@ -558,4 +624,64 @@ p.wrapper {
 .video {
     max-width: 46rem;
     margin: 0 auto;
+}
+
+#tmpo-nav {
+    width: 60% !important;
+    height: auto;
+    margin-left:20%;
+}
+
+.shadow {
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.next h2, #contact h2 {
+    text-align: center;
+}
+
+.next a{
+    text-align: center;
+    color: $brand-color;
+    &:after {
+            content: "";
+            position: absolute;
+            bottom: 2px;
+            left: 0;
+            height: 1px;
+            width: 100%;
+            background: $brand-color;
+            transition: all .15s ease;
+            z-index: 1;
+        }
+    &:hover:after {
+        bottom: -2px;
+        background: $brand-color;
+    }
+}
+
+.mob-hide {
+    @include media-query($on-palm){
+         display: none;   
+    }
+}
+
+@media screen and (max-width: 80rem){
+    .med-hide {
+        display: none;
+    }
+}
+
+.med-hide {
+    @include media-query($on-laptop){
+         display: inline;   
+    }
+}
+
+.mob-pad {
+    @include media-query($on-laptop){
+         box-sizing: border-box;
+         padding-left: $spacing-unit / 2;
+         padding-right: $spacing-unit / 2;  
+    }
 }

@@ -3,7 +3,7 @@ layout: default
 title: Blog
 nav: yes
 excerpt: Meta description goes here
-bg: "#111 url('/images/hidden-lake-lookout-grey.jpg') no-repeat center -450px; background-size: cover;"
+bg: "#f7a94f url('/images/st-helens.jpg') no-repeat top center; background-size: cover;"
 ---
 <div class="page-heading">
     <h1>Archive</h1>
@@ -20,8 +20,10 @@ bg: "#111 url('/images/hidden-lake-lookout-grey.jpg') no-repeat center -450px; b
             <div class="col-8">
                 <h2>{{ post.title }}</h2>
                 <h5>Tags: {% if post.tags %}{{ post.tags | join: ', ' }}{% endif %}</h5>
-                <div class="entry-content">{{ post.excerpt }}&hellip;</div>
-                <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+                <div class="mob-hide">
+                    <div class="entry-content">{{ post.excerpt }}&hellip;</div>
+                    <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+                </div>
             </div>
       </li>
     {% endfor %}

@@ -27,6 +27,10 @@ body {
     color: $dark;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    @include media-query($on-palm){
+        font-size: 1rem;
+        line-height: 1.375;
+    }
 }
 
 
@@ -43,23 +47,39 @@ ul, ol, dl, li, figure,
 
 h1 {
     font-size: 4.125rem; // 66px
+    @include media-query($on-palm){
+        font-size: 2rem; //58px
+    }
 }
 
 h2 {
-    font-size: 3.625rem; // 58px
+    font-size: 3.625rem; // 32px
+     @include media-query($on-palm){
+        font-size: 1.625rem; //26px
+    }
 }
 
 h3 {
     font-size: 2.25rem; // 36px
+    @include media-query($on-palm){
+        font-size: 1.375rem; //22px
+    }
 }
 
 h4 {
     font-size: 1.75rem; // 28px
+    @include media-query($on-palm){
+        font-size: 1.125rem; //18px
+    }
 }
 
 h5 {
     font-size: 1.063rem; // 17px
     margin-bottom: 0px;
+}
+
+del {
+    color: $grey-color;
 }
 
 .post-content h2, .post-content h3,
@@ -83,7 +103,10 @@ img {
     vertical-align: middle;
 }
 
-
+video {
+    width: 100% !important;
+    height: auto !important;
+}
 
 /**
  * Figures
@@ -149,7 +172,7 @@ a {
     }
 }
 
-p a:after {
+h2 a:after, h4.light-grey a:after,  h5 a:after, p a:after {
       content: "";
       position: absolute;
       bottom: 2px;
@@ -161,6 +184,28 @@ p a:after {
       z-index: -1;
      }
 
+.home-heading h3 a:after {
+      content: "";
+      position: absolute;
+      bottom: 2px;
+      left: 0;
+      height: 1px;
+      width: 100%;
+      background: rgba($dark, .6);
+      transition: all .15s ease;
+      z-index: 1;
+}
+
+.home-heading h3 a:hover:after{
+    background: rgba($dark, 1);
+}
+
+h4.light-grey a:after {
+      z-index: 1;
+     }
+.home-heading h3 a:hover:after, h4.light-grey a:hover:after{
+     bottom: -2px;
+}
 
 
 /**
@@ -176,7 +221,10 @@ p a:after {
 
     font-size: 1.563em;
     font-weight: bold;
-    ;
+    @include media-query($on-palm){
+        font-size: 1.125rem; //18px
+        padding-left: $spacing-unit / 3;
+    }
     p {
         max-width: 80rem;
         margin: 0;

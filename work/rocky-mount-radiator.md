@@ -4,16 +4,16 @@ title: Rocky Mount Radiator
 excerpt: Logo system for Rocky Mount Radiator, Carolina Clean Diesel, and HeavyDutyCoolingParts.com
 permalink: /rocky-mount-radiator/
 bg: "#CA302A;
-background: -webkit-linear-gradient(to bottom, #CA302A , #972620);
-background: linear-gradient(to bottom, #CA302A , #972620);"
+background: -webkit-linear-gradient(to right, #CA302A , #972620);
+background: linear-gradient(to right, #CA302A , #972620);"
 ---
 <section>
     <figure>
-    <img src="/images/rm-radiator/logo-primary.svg" alt="Rocky Mount Radiator Primary Logo" />
+        <img src="/images/rm-radiator/logo-primary.svg" alt="Rocky Mount Radiator Primary Logo" class="mob-pad" />
     </figure>
     
     
-    <p><strong>Rocky Mount Radiator</strong> and A/C is an expanding family business that was founded by Rocky Mount native Godfrey Giddeons in 1927. They are beginning to move their local business into two more niche markets and needed a logo system to tie all three brands together as they move forward.</p>
+    <p><strong>Rocky Mount Radiator and A/C</strong> is an expanding family business that was founded by Rocky Mount native Godfrey Giddeons in 1927. They are beginning to move their local business into two more niche markets and needed a logo system to tie all three brands together as they move forward.</p>
 
     <h4 class="light-grey">Role: Logo Design</h4>
 </section>
@@ -62,7 +62,7 @@ background: linear-gradient(to bottom, #CA302A , #972620);"
 <section>
     <div class="row centered">
         <div class="half">
-            <img src="/images/rm-radiator/brand-colors.svg" alt="Brand Colors" />
+            <img src="/images/rm-radiator/brand-colors.svg" alt="Brand Colors" class="mob-pad" />
         </div>
         <div class="half">
             <h2>Color</h2>
@@ -77,16 +77,19 @@ background: linear-gradient(to bottom, #CA302A , #972620);"
     <p>Combining matching typography and extended color palattes the sub-brands tie into the primary brand to create the complete logo system.</p>
     <div class="row centered">
         <div class="half">
-            <img src="/images/rm-radiator/ccd.svg" alt="Brand Colors" />
+            <img src="/images/rm-radiator/ccd.svg" alt="Carolina Clean Diesel Logos" class="mob-pad" />
         </div>
         <div class="half">
-            <img src="/images/rm-radiator/hdcp.svg" alt="Brand Colors" />
+            <img src="/images/rm-radiator/hdcp.svg" alt="HeavyDutyCoolingParts.com Logos" />
         </div>
     </div>
 </section>
-
-##Client Testimonial
-
->&ldquo;Not only did Justin help me create an official logo and image but helped completely enhance my complete company rebranding experience. The style guide along with description of what our image portrays has helped our staff realize our mission strategy moving forward with our business.  Our small family business is moving in a larger scale thanks to the design help from Justin.&rdquo;
-<br /><br />
-<img src="/images/rm-radiator/bryan.png" alt="Bryan Braswell" class="client-img" /> &mdash;Bryan Braswell, Heavy Duty Sales Manager
+<section>
+    <h2>Client Testimonial</h2>
+    <blockquote>&ldquo;Not only did Justin help me create an official logo and image but helped completely enhance my complete company rebranding experience. The style guide along with description of what our image portrays has helped our staff realize our mission strategy moving forward with our business.  Our small family business is moving in a larger scale thanks to the design help from Justin.&rdquo;
+    <br /><br />
+    <img src="/images/rm-radiator/bryan.png" alt="Bryan Braswell" class="client-img" /> &mdash;Bryan Braswell, Heavy Duty Sales Manager</blockquote>
+</section>
+<section class="next" onclick="location.href='/web101/';">
+    <h2>Next, read about <a href="/web101/">Web101</a></h2>
+</section>

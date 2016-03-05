@@ -16,7 +16,7 @@ $spacing-unit:     2rem;
 
 $dark:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #F7931E;
+$brand-color:      #f7a94f; //originally #F7931E
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -27,7 +27,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 $content-width:    800px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        768px;
 
 
 
@@ -61,6 +61,6 @@ ul, ol, dl, .entry-content {
         padding: 0 ($spacing-unit * 1.5);
     }
     @include media-query($on-palm){
-        padding: 0 ($spacing-unit / 4);
+        padding: 0 ($spacing-unit / 2);
     }
 }

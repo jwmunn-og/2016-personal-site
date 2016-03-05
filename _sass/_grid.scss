@@ -31,8 +31,15 @@ $grid-spacing:3%;
 	align-items: center;
 }
 
-.centered p:last-child, .centered img {
+.centered img {
     margin-top: auto;
+    margin-bottom: auto;
+}
+
+.centerd h2:first-child {
+    margin-top: auto;
+}
+.centered p:last-child {
     margin-bottom: auto;
 }
  
