@@ -11,7 +11,7 @@ permalink: /about/
 </figure>
 <section>  
     <div class="row">
-        <h1>I&rsquo;m a designer who builds websites exploring the west coast.</h1>
+        <h1>A designer who codes websites exploring the west coast.</h1>
         <div class="half">
             <p>For the past 6 years, I&rsquo;ve been making a living as a designer and got the bug for coding websites back in 2011.</p>
             <h3>Brief History</h3>
