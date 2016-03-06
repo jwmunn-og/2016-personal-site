@@ -68,7 +68,7 @@ background: linear-gradient(to right, #ffc430, #f4aa00);"
     <p>Working in a larger e-commerce company, opportunities for full redesigns are very difficult. However steps can be taken to keep the majority of the current layout and make improvements through an audit of the site&rsquo;s typography and UI elements to make a more consistent and user friendly experience.</p>
     <p>The focus of this audit was to create better page hierarchy through consistent typography and type color. Next we A/B tested different image sizes and whitespace for better conversion on product pages. Finally we created a cleaner mobile header, updated the shopping cart icon to better fit within the branding and consolidated the product filter to allow more content to be pulled into the screen.</p>
     
-    <p><a href="http://www.taylormadegolfpreowned.com/">Visit the site&rarr;</a></p>
+    <p><a href="http://www.taylormadegolfpreowned.com/"><strong>Visit the site&rarr;</strong></a></p>
     <div class="row divider"></div>
     <div class="row divider">
         <div class="half">
