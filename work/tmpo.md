@@ -14,8 +14,6 @@ background: linear-gradient(to right, #ffc430, #f4aa00);"
     
     
     <p><strong>TaylorMade PreOwned</strong> is a <a href="http://globalvaluecommerce.com">Global Value Commerce</a> site that is a result of our great relationship with <a href="http://taylormadegolf.com/">TaylorMade</a> and our commitment to providing quality preowned equipment. From the color palette to the typeface this has been one of my favorite sites to take visual ownership of. I get to work on a wide-range of things for the site including homepage concepts and css animation prototyping. Here are some of my favorite emails, illustrations & animations since I joined the GVC team in 2012.</p>
-    
-    <p><a href="http://c1mg.com/">Visit the site&rarr;</a></p>
 
     <h4 class="light-grey">Role: HTML Email Development, Design, Prototyping</h4>
 </section>
@@ -70,6 +68,8 @@ background: linear-gradient(to right, #ffc430, #f4aa00);"
     <p>Working in a larger e-commerce company, opportunities for full redesigns are very difficult. However steps can be taken to keep the majority of the current layout and make improvements through an audit of the site&rsquo;s typography and UI elements to make a more consistent and user friendly experience.</p>
     <p>The focus of this audit was to create better page hierarchy through consistent typography and type color. Next we A/B tested different image sizes and whitespace for better conversion on product pages. Finally we created a cleaner mobile header, updated the shopping cart icon to better fit within the branding and consolidated the product filter to allow more content to be pulled into the screen.</p>
     
+    <p><a href="http://www.taylormadegolfpreowned.com/">Visit the site&rarr;</a></p>
+    <div class="row divider"></div>
     <div class="row divider">
         <div class="half">
              <h3>Gallery View Before</h3>
