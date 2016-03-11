@@ -131,7 +131,7 @@
     }
 }
 
-.text {
+.text, .contact-list {
     z-index: 2;
     a:hover:after {
         bottom: -2px;
@@ -139,7 +139,7 @@
     }
 }
 
-.text a:after {
+.text a:after, .contact-list a:after {
             content: "";
             position: absolute;
             bottom: 2px;
