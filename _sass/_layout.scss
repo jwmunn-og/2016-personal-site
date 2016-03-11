@@ -116,6 +116,8 @@
     padding: $spacing-unit 0;
     background: $dark;
     font-family: $base-font-family;
+    font-size: 1em;
+    color: $grey-color;
     
     a {
         color: $grey-color;
@@ -167,8 +169,6 @@
 }
 
 .footer-col-wrapper {
-    font-size: 1em;
-    color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
     @include media-query($on-palm){
