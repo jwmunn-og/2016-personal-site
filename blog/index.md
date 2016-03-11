@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 nav: yes
-excerpt: Meta description goes here
+excerpt: Blog post archive.
 bg: "#f7a94f url('/images/st-helens.jpg') no-repeat top center; background-size: cover;"
 ---
 <div class="page-heading">

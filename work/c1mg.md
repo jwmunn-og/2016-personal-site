@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C1 Marketing Group
-excerpt: Logo system for Rocky Mount Radiator, Carolina Clean Diesel, and HeavyDutyCoolingParts.com
+excerpt: Branding and web development for C1 Marketing Group.
 permalink: /c1mg/
 bg: "#0067B1;
 background: -webkit-linear-gradient(to right, #0067B1 , #0076c9);

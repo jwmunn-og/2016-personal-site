@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eridani Crops
-excerpt: Meta description goes here
+excerpt: Web development and illustration for Eridani Crops.
 permalink: /eridani-crops/
 bg: "#88bb52;
 background: -webkit-linear-gradient(to right, #9ad45d, #88bb52);

@@ -2,7 +2,7 @@
 layout: page
 title: About
 nav: yes
-excerpt: Meta description goes here
+excerpt: About Justin: A designer who codes websites exploring the west coast.
 permalink: /about/        
 ---
 

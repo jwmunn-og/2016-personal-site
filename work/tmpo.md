@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TaylorMade Golf PreOwned
-excerpt: Logo system for Rocky Mount Radiator, Carolina Clean Diesel, and HeavyDutyCoolingParts.com
+excerpt: HTML Email development, prototyping, and branding projects for TaylorMade PreOwned.
 permalink: /taylormade-preowned/
 bg: "#f4aa00;
 background: -webkit-linear-gradient(to right, #ffc430, #f4aa00);

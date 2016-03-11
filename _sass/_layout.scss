@@ -408,6 +408,11 @@ p.post-meta {
     & .col-8 {
         padding: ($spacing-unit / 2) ($spacing-unit / 2) ($spacing-unit / 2) 0px;
     }
+    
+    & img {
+        min-width: 100%;
+        max-width: 100%;
+    }
 }
 
 .card .post-link {
