@@ -15,7 +15,7 @@ background: linear-gradient(to right, #0067B1 , #0076c9);"
     
     <p><strong>C1 Marketing Group</strong> is a entertainment Public Relations and Marketing company that works with elite talent in sports and entertainment. They pride themselves on a client first approach and operate as a boutique shop that provides a personal and strategic approach to each campaign.</p>
     
-    <p><a href="http://c1mg.com/">Visit the site&rarr;</a></p>
+    <p><a class="visit" href="http://c1mg.com/">Visit the site</a></p>
 
     <h4 class="light-grey">Role: Logo Design, Front-End Development</h4>
 </section>
