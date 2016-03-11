@@ -157,12 +157,21 @@
     color: $brand-color;
     text-transform: uppercase;
     letter-spacing: 2px;
+    @include media-query($on-palm){
+        padding: 0;
+    }
 }
 
 .contact-list,
 .social-media-list {
     list-style: none;
     margin-left: 0;
+}
+
+.site-footer p, .site-footer ul {
+    @include media-query($on-palm){
+        padding: 0;
+    }
 }
 
 .footer-col-wrapper {
