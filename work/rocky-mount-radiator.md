@@ -37,9 +37,9 @@ background: linear-gradient(to right, #CA302A , #972620);"
 <section>
     <h2>Typography</h2>
     
-    <p>All logotypes are cusomized versions of Montserrat Bold. The typeface was chosen for it’s circular geometry which served to match with both the circular make-up of the Rocky Mount Radiator mark as well as substitute as tires in the Carolina Clean Diesel logotype. The consistent typeface treatment throughout the 3 logotypes creates a cohesive company system tying the two sub-companies into the parent company.</p>
+    <p>All logotypes are customized versions of Montserrat Bold. The typeface was chosen for it’s circular geometry which served to match with both the circular make-up of the Rocky Mount Radiator mark as well as substitute as tires in the Carolina Clean Diesel logotype. The consistent typeface treatment throughout the 3 logotypes creates a cohesive company system tying the two sub-companies into the parent company.</p>
     
-    <p>For related colatteral, in print or web, Montserrat will be used for headlines and can be paired with Roboto for body text. This type pairing gives a clean and consistent look to all future brand materials.</p>
+    <p>For related collateral, in print or web, Montserrat will be used for headlines and can be paired with Roboto for body text. This type pairing gives a clean and consistent look to all future brand materials.</p>
     
     <div class="row centered">
         <div class="half">
@@ -79,7 +79,7 @@ background: linear-gradient(to right, #CA302A , #972620);"
 
 <section>
     <h2>Sub-Brands</h2>
-    <p>Combining matching typography and extended color palattes the sub-brands tie into the primary brand to create the complete logo system.</p>
+    <p>Combining matching typography and extended color palettes the sub-brands tie into the primary brand to create the complete logo system.</p>
     <div class="row centered">
         <div class="half">
             <img src="/images/rm-radiator/ccd.svg" alt="Carolina Clean Diesel Logos" class="mob-pad" />
