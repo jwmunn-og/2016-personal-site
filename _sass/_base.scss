@@ -40,7 +40,7 @@ body {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, li, figure,
+ul, ol, dl, li, figure, figcaption,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
@@ -73,7 +73,7 @@ h4 {
     }
 }
 
-h5 {
+h5, figcaption {
     font-size: 1.063rem; // 17px
     margin-bottom: 0px;
 }
@@ -85,7 +85,7 @@ del {
 .post-content h2, .post-content h3,
 .post-content h4, .post-content h5,
 .post-content h6, .home, .post-content p, .post-content ul,
-.post-content ol {
+.post-content ol, .post-content figcaption {
     max-width: 46rem;
     margin-left: auto;
     margin-right: auto;
@@ -115,9 +115,11 @@ figure > img {
     display: block;
 }
 
+/*
 figcaption {
     font-size: $small-font-size;
 }
+*/
 
 
 
@@ -141,7 +143,7 @@ li {
  * Headings
  */
  
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, figcaption {
     font-weight: 500;
     font-family: $base-font-family;
 }
@@ -172,7 +174,7 @@ a {
     }
 }
 
-h2 a:after, h4.light-grey a:after,  h5 a:after, p a:after {
+h2 a:after, h4.light-grey a:after,  h5 a:after, p a:after, figcaption a:after {
       content: "";
       position: absolute;
       bottom: 2px;
