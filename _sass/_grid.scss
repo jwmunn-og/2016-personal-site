@@ -79,4 +79,15 @@ $grid-spacing:3%;
             height: auto;
         }
     }
+    
+    .half.wrapper {
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: $spacing-unit;
+        
+        & p, & h3, & h5 {
+            padding-left: $spacing-unit / 2;
+            padding-right: $spacing-unit / 2;
+        }
+    }
 }

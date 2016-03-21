@@ -47,6 +47,8 @@ ul, ol, dl, li, figure, figcaption,
 
 h1 {
     font-size: 4.125rem; // 66px
+    line-height: 1.15;
+    margin-bottom: $spacing-unit !important;
     @include media-query($on-palm){
         font-size: 2rem; //58px
     }
@@ -147,8 +149,6 @@ h1, h2, h3, h4, h5, h6, figcaption {
     font-weight: 500;
     font-family: $base-font-family;
 }
-
-
 
 /**
  * Links
@@ -300,7 +300,6 @@ pre {
         padding-left: $spacing-unit / 2;
     }
 }
-
 
 
 /**

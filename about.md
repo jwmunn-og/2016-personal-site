@@ -5,14 +5,13 @@ nav: yes
 excerpt: About Me. A designer who codes websites exploring the west coast.
 permalink: /about/        
 ---
-
 <figure class="full-width">
     <img src="/images/about-collage2.jpg" alt="About Me" />
 </figure>
 <section>  
     <div class="row">
-        <h1>A designer who codes websites exploring the west coast.</h1>
-        <div class="half">
+        <h1 class="wrapper">A designer who codes websites exploring the west coast.</h1>
+        <div class="half wrapper">
             <p>For the past 6 years, I&rsquo;ve been making a living as a designer and got the bug for coding websites back in 2011.</p>
             <h3>Brief History</h3>
             <p>I was born and raised in South and North Carolina respectively. I&rsquo;m originally from Darlington, grew up in Rocky Mount, went to undergrad in Wilmington, and moved to Raleigh after graduation to begin my design career in 2010. While living in Raleigh I became a proud husband, uncle and cat dad. In June 2014 I started working remotely full-time and following my travel nurse wife <a href="http://susanandjustin.us">around the US</a>.</p>
