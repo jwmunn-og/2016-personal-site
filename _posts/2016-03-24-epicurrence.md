@@ -43,7 +43,7 @@ Before the event even started, the conversations did. I was anxious about going 
     </div>
 </div>
 
-There are no slide decks, podiums or VIP rooms. The Montues is made for conversations. You share meals together, drink together, ride chairlifts together,  and rip through glades together. You talk shop together, talk life together, and pack out hot tubs together. You know everyone wants to hangout when there are 2 hot tubs full of people *and an empty one next to the bar.* The amount of time allowed to meet fellow creatives for have conversations was astonishing.
+There are no slide decks, podiums or VIP rooms. The Montues is made for conversations. You share meals together, drink together, ride chairlifts together,  and rip through glades together. You talk shop together, talk life together, and pack out hot tubs together. You know everyone wants to hangout when there are 2 hot tubs full of people *and an empty one next to the bar.* The amount of time allowed to meet fellow creatives and have conversations was astonishing.
 
 People came from all different backgrounds and locations to share in this experience. I couldn&rsquo;t turn a corner without meeting another amazing human in this community. That togetherness left me humbled, greatful, inspired and exhausted in the best way possible.
 
