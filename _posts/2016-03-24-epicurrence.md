@@ -5,7 +5,7 @@ date:   2016-03-13 12:00:00
 permalink: blog/epicurrence-montues/
 tags: [event, life]
 archive-img: "/images/montues-thumb.jpg"
-excerpt: Epicurrence is a non-conference started by Dann Petty that brings together designers and developers to have honest conversations and fun. The Montues was the 4th installment of the event series and an experiment to see if this simple idea would work at scale
+excerpt: Epicurrence is a non-conference started by Dann Petty that brings together designers and developers to have honest conversations and fun. The Montues was the 4th installment of the event series and an experiment
 bg: "#D1913C;
 background: -webkit-linear-gradient(to top, rgba(0,0,0,.5) , rgba(0,0,0,0)), url('/images/snowboarder_bg.jpg') no-repeat bottom left;
 background: linear-gradient(to top, rgba(0,0,0,.5), rgba(0,0,0,0)), url('/images/snowboarder_bg.jpg') no-repeat bottom left; background-size: contain;"
