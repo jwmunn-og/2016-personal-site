@@ -223,13 +223,17 @@ h4.light-grey a:after {
 
     font-size: 1.563em;
     font-weight: bold;
+    @include media-query($on-laptop){
+        padding-left: $spacing-unit * 1.5;
+    }
     @include media-query($on-palm){
         font-size: 1.125rem; //18px
-        padding-left: $spacing-unit / 3;
+        padding-left: $spacing-unit / 2;
     }
     p {
         max-width: 80rem;
         margin: 0;
+        padding: 0;
     }
     
     > :last-child {
