@@ -111,11 +111,10 @@ body { min-height: 100%; }
 
 @media screen and (max-width: 480px) {    
     body {
-      background: url(unsplash.jpg) no-repeat center center fixed; 
-			-webkit-background-size: cover;
-			-moz-background-size: cover;
-			-o-background-size: cover;
-			background-size: cover;
+      background: url(rsz_background-mobile.jpg) no-repeat center 50px; 
+			background-size: auto;
+			background-color: #6b747b; 
+      zoom:1;
     }
 }
 
