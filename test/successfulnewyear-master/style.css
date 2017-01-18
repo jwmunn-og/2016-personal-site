@@ -1,0 +1,118 @@
+
+
+body {
+  background-image: url(rsz_background.jpg);
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  max-width: 100%;
+}
+
+#nav-bar {
+  text-align: center;
+}
+
+#topbox {
+  background-color: #eee;
+  opacity: 0.9;
+  margin-top: 100px;
+  max-width: 450px;
+  border-radius: 10px;
+  border-style: solid;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  text-align: justify;
+  font-size: 13px;
+  font-family: 'Play', sans-serif;
+  padding: 5px;
+  color: #333;
+  max-width: 300px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  font-weight: 500;
+  margin-top: 0em !important;
+
+}
+
+#topbox h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+@media (max-width: 325px) {
+  #topbox h1 {
+    font-size: 25px;
+  }
+}
+
+.heading {
+color: black;
+font-weight: bold;
+text-align: center;
+}
+
+.mmphoto{
+  width:150px;
+  height:150px;  
+}
+
+#byline {
+  font-size: 10px;
+  text-align: center;
+}
+
+
+.info-boxes {
+  background-color: #D5EDF5;
+  opacity: 0.95;
+  max-width: 450px;
+  border-radius: 10px;
+  border-style: solid;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+.breaker {
+  background-image: url(rsz_background.jpg);
+  background-position: fixed;
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  height: 50px;
+}
+
+.footer {
+  text-align: center;
+  color: black;
+  background-color: white;
+  font-family: "Helvetica-Neue", Helvetica;
+  font-weight: 100;
+  padding: 5px;
+  margin-top:0px;
+}
+
+/* Helps solve a mobile style bug on some phones */
+html { height: 100%; } 
+body { min-height: 100%; }
+
+@media screen and (max-width: 480px) {
+    background-image: responsive;
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 450px;
+}
