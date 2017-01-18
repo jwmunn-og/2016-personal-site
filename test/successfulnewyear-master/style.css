@@ -63,7 +63,8 @@ text-align: center;
 
 .mmphoto{
   width:150px;
-  height:150px;  
+/*  Squishes image =>  height:150px; */
+  height: auto;
 }
 
 #byline {
@@ -83,15 +84,11 @@ text-align: center;
 }
 
 
+
 .breaker {
-  background-image: url(rsz_background.jpg);
-  background-position: fixed;
-  background-attachment: fixed;
-  background-position:center;
-  background-repeat:no-repeat;
-  background-size: cover;
   height: 50px;
 }
+
 
 .footer {
   text-align: center;
@@ -107,8 +104,13 @@ text-align: center;
 html { height: 100%; } 
 body { min-height: 100%; }
 
-@media screen and (max-width: 480px) {
-    background-image: responsive;
+@media screen and (max-width: 480px) {    
+    body {
+      background: url(rsz_background-mobile.jpg) no-repeat center 50px; 
+			background-size: auto;
+			background-color: #6b747b; 
+      zoom:1;
+    }
 }
 
 .wrapper {
