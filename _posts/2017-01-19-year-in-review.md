@@ -5,7 +5,7 @@ date:   2017-01-19 12:00:00
 permalink: blog/2016-year-in-review/
 tags: [life]
 archive-img: "/images/2016-year-review/antelope-thumb.jpg"
-excerpt: If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, interesting, serendipitous, frustrating, sad and happy all mixed together. So instead of trying to compartmentalize everything
+excerpt: If I had to choose one word for 2016 it would be <strong>spectrum</strong>. Highs, lows, interesting, serendipitous, frustrating, sad and happy all mixed together. So instead of trying to compartmentalize everything
 bg: "#D1913C;
 background: -webkit-linear-gradient(to top, rgba(0,0,0,.5) , rgba(0,0,0,0)), url('/images/2016-year-review/antelope.jpg') no-repeat center top;
 background: linear-gradient(to top, rgba(0,0,0,.5), rgba(0,0,0,0)), url('/images/2016-year-review/antelope.jpg') no-repeat center top; background-size: cover;"
