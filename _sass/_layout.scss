@@ -253,7 +253,7 @@
 }
 
 .post-content ul, .post-content ol {
-    padding: ($spacing-unit / 2) ($spacing-unit * 2) ($spacing-unit / 2) ($spacing-unit * 4);
+    padding: ($spacing-unit / 2) ($spacing-unit * 2) ($spacing-unit / 2) ($spacing-unit * 3);
      @include media-query($on-laptop) {
         padding: ($spacing-unit / 2) ($spacing-unit) ($spacing-unit / 2) ($spacing-unit);
     }
