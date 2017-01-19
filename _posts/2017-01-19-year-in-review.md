@@ -14,6 +14,7 @@ background: linear-gradient(to top, rgba(0,0,0,.5), rgba(0,0,0,0)), url('/images
 If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, interesting, serendipitous, frustrating, sad and happy all mixed together. So instead of trying to compartmentalize everything that happened last year I’m just going to list it all together, the way it happened. Our life has been pretty seasonal the last couple years. Not by the true seasons, but by where & when we’re living and the in-between. I’ll to my best to give a peek into the fullness that was 2016.
 
 ##### Context if this is your first time on the blog. My wife Susan is a travel nurse and our location is determined by her 13-16 week hospital contracts. I work remotely and tag along. We started doing this in June 2014.
+
 <br />
 
 <figure>
@@ -21,7 +22,7 @@ If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, inte
     <figcaption>Queue Reno 911 Theme song</figcaption>
 </figure>
 
-## Reno, Nevada
+## Reno, NV
 
 <h4 class="light-grey">January-April</h4>
 
@@ -113,11 +114,11 @@ After we left Reno we were heartbroken without anywhere to go. We were trying to
 <div class="row">
     <figure class="half">
         <img src="/images/2016-year-review/bryce.jpg" alt="Angels Landing" />
-        <figcaption>Heading up Angels Landing in Zion National Park</figcaption>
+        <figcaption>Bryce Canyon National Park.</figcaption>
     </figure>
     <div class="half">
         <img src="/images/2016-year-review/bryce-camp.jpg" alt="Route 66" />
-        <figcaption>Moving mode on Route 66.</figcaption>
+        <figcaption>Getting meta at the Bryce campsite.</figcaption>
     </div>
 </div>
 <div class="row">
