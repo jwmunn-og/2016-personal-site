@@ -4,7 +4,7 @@ title:  "2016: Year in Review"
 date:   2017-01-19 12:00:00
 permalink: blog/2016-year-in-review/
 tags: [life]
-archive-img: "/images/antelope.jpg"
+archive-img: "/images/2016-year-review/antelope.jpg"
 excerpt: If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, interesting, serendipitous, frustrating, sad and happy all mixed together. So instead of trying to compartmentalize everything that happened last year I’m just going to list it all together, the way it happened.
 bg: "#D1913C;
 background: -webkit-linear-gradient(to top, rgba(0,0,0,.5) , rgba(0,0,0,0)), url('/images/2016-year-review/antelope.jpg') no-repeat center top;
@@ -20,7 +20,9 @@ If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, inte
     <img src="/images/2016-year-review/reno-van.jpg" alt="Reno" />
     <figcaption>Queue Reno 911 Theme song</figcaption>
 </figure>
+
 ## Reno, Nevada
+
 <h4 class="light-grey">January-April</h4>
 
 I really liked living in Reno. The climate is very similar to Colorado, dry and sunny with a reasonably low cost of living. The tech scene is growing. Plus, it&rsquo;s centrally located to Lake Tahoe, Mammoth, and Yosemite (summer only). Midtown is a cool area and there are good breweries but there are few good restaurants. I&rsquo;d rate it up and coming.
@@ -359,4 +361,5 @@ Seeing it written out this year was full and all over the place. A huge year of 
 ***
 <br />
 ![Alt text](/images/2016-year-review/chandler.jpg)
+
 ##### Dedicated to Chandler. We still miss the shit out of you.
