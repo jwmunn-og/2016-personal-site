@@ -196,7 +196,7 @@ Susan got an offer and we didn’t have other options so we ended up in Grand Ju
 <div class="row">
     <figure class="half">
         <img src="/images/2016-year-review/evans-sheep.jpg" alt="Mt. Evans sheep" />
-        <figcaption>Sheep at Mt. Evans.</figcaption>
+        <figcaption>Hitchhikers at Mt. Evans.</figcaption>
     </figure>
     <div class="half">
         <img src="/images/2016-year-review/quandary.jpg" alt="Northstar Snow Conditions" />
