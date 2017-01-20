@@ -11,7 +11,7 @@ background: -webkit-linear-gradient(to top, rgba(0,0,0,.5) , rgba(0,0,0,0)), url
 background: linear-gradient(to top, rgba(0,0,0,.5), rgba(0,0,0,0)), url('/images/2016-year-review/antelope.jpg') no-repeat center top; background-size: cover;"
 ---
 
-If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, interesting, serendipitous, frustrating, sad and happy all mixed together. So instead of trying to compartmentalize everything that happened last year I’m just going to list it all together, the way it happened. Our life has been pretty seasonal the last couple years. Not by the true seasons, but by where & when we’re living and the in-between. I’ll to my best to give a peek into the fullness that was 2016.
+If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, interesting, serendipitous, frustrating, sad and happy all mixed together. So instead of trying to compartmentalize everything that happened last year I&rsquo;m going to list it all together, the way it happened. Our life has been pretty seasonal the last couple years. Not by the true seasons, but by where & when we’re living and the in-between. I’ll to my best to give a peek into the fullness that was 2016.
 
 ##### Context if this is your first time on the blog. My wife Susan is a travel nurse and our location is determined by her 13-16 week hospital contracts. I work remotely and tag along. We started doing this in June 2014.
 
@@ -26,7 +26,7 @@ If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, inte
 
 <h4 class="light-grey">January-April</h4>
 
-I really liked living in Reno. The climate is very similar to Colorado, dry and sunny with a reasonably low cost of living. The tech scene is growing. Plus, it&rsquo;s centrally located to Lake Tahoe, Mammoth, and Yosemite (summer only). Midtown is a cool area and there are good breweries but there are few good restaurants. I&rsquo;d rate it up and coming.
+I liked living in Reno. The climate is like Colorado, dry and sunny with a reasonable low cost of living. The tech scene is growing. Plus, it&rsquo;s centrally located to Lake Tahoe, Mammoth, and Yosemite (when Tioga Pass is open). Midtown is a cool area. There are good breweries but there aren't many good restaurants. I’d rate it up and coming.
 
 * Won some trivia nights at the [Little Waldorf](http://www.lilwal.com/) with our new friends Mark &amp; Shannon
 * Has one of the best coffee roasters & shops I’ve tried: [Hub Coffee Roasters](http://www.hubcoffeeroasters.com/)
@@ -81,11 +81,11 @@ I really liked living in Reno. The climate is very similar to Colorado, dry and 
 ## In-Between: The Southwest
 <h4 class="light-grey">May</h4>
 
-After we left Reno we were heartbroken without anywhere to go. We were trying to move to Las Vegas or Los Angeles areas for the next contract but hadn’t heard anything back. Susan’s parents were going to a work conference in Palm Springs, CA so we headed that direction. Then we decided to float through the southwest until we heard something. It was a surreal experience of beautiful landscapes during the day and grieving at night when it faded away.
+After we left Reno we were heartbroken without anywhere to go. We were trying to move to Las Vegas or Los Angeles areas for the next contract but hadn’t heard anything back. Susan’s parents were going to a work conference in Palm Springs, CA so we headed that direction. Then we decided to float through the southwest until we heard something. It was a surreal experience. Beautiful landscapes during the day and grieving at night when it faded away.
 
 * Stayed in Bishop, CA. Visited the Ancient Bristlecone Forest
 * Drove to Death Valley National Park.
-* Got a flat tire on a primitive canyon road in Death Valley. *While moving.* Imagine taking your entire life out of the back of your car to reach the spare tire. Then jacking your car, our only real possession, towards a cliff while it is starting to get dark and rain and you'll have a good picture of how we felt. This is the day after putting Chandler to sleep. All we could think is *&ldquo;WTF are we doing?&rdquo;*.
+* Got a flat tire on a primitive canyon road in Death Valley. *While moving.* Imagine taking your entire life out of the back of your car to reach the spare tire. Then jack your car, your only real possession, towards a cliff. It is starting to get dark and rain. Can you feel the pit in my stomach yet? This is the day after putting Chandler to sleep. All we could think is *&ldquo;WTF are we doing?&rdquo;*.
 * Pulled in to the closest town, Las Vegas on a donut at 3am. Got new tires put on the next day.
 * Spent the night in Jumbo Rocks campground in Joshua Tree National Park.
 * Arrived in Palm Springs and spent a great week with Susan’s parents.
@@ -174,7 +174,7 @@ After we left Reno we were heartbroken without anywhere to go. We were trying to
 ## Grand Junction, CO
 <h4 class="light-grey">Late May-August</h4>
 
-Susan got an offer and we didn't have other options so we ended up in Grand Junction, CO for the summer. It&rsquo;s is a small town on I-70 near the western border of Colorado. Best known for the Colorado National Monument it is a red rock, canyon and mesa landscape centrally located between Aspen, the San Juan Mountains, Grand Mesa, and Moab, UT. There isn't much there but a weekly farmers market.
+Susan got an offer and we didn’t have other options so we ended up in Grand Junction, CO for the summer. It’s is a small town on I-70 near the western border of Colorado. Best known for the Colorado National Monument it is a red rock, canyon and mesa landscape. It's central to Aspen, the San Juan Mountains, Grand Mesa, and Moab, UT. There isn’t much there but a weekly farmers market.
 
 * Terrible Airbnb host.
 * Host sold the house in the middle of our stay and moved all the artwork and furnishings out mid-July.
@@ -351,16 +351,39 @@ I love Seattle. We spent 8 months there in 2015. After the ups and downs of the 
     <img src="/images/2016-year-review/reflection-lake.jpg" alt="Reflection Lake" />
     <figcaption>Reflection Lake, Mt. Rainier National Park.</figcaption>
 </figure>
+<figure>
+    <img src="/images/2016-year-review/whistler.jpg" alt="Whistler" />
+    <figcaption>Opening weekend at Whistler.</figcaption>
+</figure>
 
 
-## Home for the Holidays
+## Mountain Roadtrip + Home for the Holidays
 
 I had to burn all my vacation before the end of the year so Susan and I drove out to Big Sky, MT, Jackson, WY and Sun Valley, ID to snowboard. Spent 2 weeks at home visiting with friends, family and even went into the actual office for a week to put in some face time with my co-workers.
 
-Seeing it written out this year was full and all over the place. A huge year of personal growth as an individual and a couple. We were pushed physically and emotionally this past year but we&rsquo;re still going. This year doesn&rsquo;t look any slower. We&rsquo;ll take it 13 weeks at a time.
+Seeing it written out this year was full and all over the place. A huge year of personal growth as an individual and a couple. We were pushed physically, emotionally, and logistically this past year but we&rsquo;re still going. This year doesn&rsquo;t look any slower. We&rsquo;ll take it 13 weeks at a time.
+  
+<div class="row">
+  <figure class="half">
+      <img src="/images/2016-year-review/jackson-sheep.jpg" alt="Sahale Arm" />
+      <figcaption>Curious passerby in Jackson, WY.</figcaption>
+  </figure>
+  <div class="half">
+      <img src="/images/2016-year-review/big-sky.jpg" alt="Cooper Spur" />
+      <figcaption>Big Sky, MT</figcaption>
+  </div>
+</div>
 
-***
+<figure>
+  <img src="/images/2016-year-review/sun-valley.jpg" alt="Sun Valley" />
+  <figcaption>Sun Valley, ID.</figcaption>
+</figure>
+<br />
+
+<h4 class="light-grey">If you like hiking and snowboarding photos, follow me on <a href="https://www.instagram.com/jwmunn/">Instagram</a>. If you like to hike, sign up for <a href="http://pathfinderhikes.com">Pathfinder</a>. We&rsquo;re excited about it and will be launching beta soon.</h4>
+
 <br />
 ![Alt text](/images/2016-year-review/chandler.jpg)
 
 ##### Dedicated to Chandler. We still miss the shit out of you.
+<br />
