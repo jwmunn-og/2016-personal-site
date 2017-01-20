@@ -40,7 +40,7 @@ I liked living in Reno. The climate is like Colorado, dry and sunny with a reaso
 * Had an incredible season of snowboarding in Lake Tahoe and a long weekend in Salt Lake City, UT. So many powder days.
 * 30min drive from [Northstar](http://www.northstarcalifornia.com/) = Lots of ski days.
 * Met lots of awesome designers & developers at [Epicurrence&mdash;The Montues](/blog/epicurrence-montues/)
-* Found out Chandler, our 16 year old cat was very sick.
+* Found out Chandler, our 16 year old cat was irreversibly sick.
 * We spent much of these 4 months going back and forth to the vet and giving him treatment at home. He was put to sleep the day before we were supposed to move out. After it happened we couldn't stay there another night so we packed and moved out a day early.
 
 <div class="row">
