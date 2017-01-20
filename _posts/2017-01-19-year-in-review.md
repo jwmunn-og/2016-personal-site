@@ -91,7 +91,7 @@ After we left Reno we were heartbroken without anywhere to go. We were trying to
 * Arrived in Palm Springs and spent a great week with Susan’s parents.
 * Spent 2 days in Los Angeles, visited Harry Potter World and the Griffith Observatory.
 * Visited and/or camped in Death Valley, Joshua Tree, Petrified Forest, Zion, Bryce Canyon, Grand Canyon, Saguaro, Canyonlands, and Arches National Parks.
-* Had some trail magic in Zion: We were let into group camping site with families from Idaho and LA/Pasadena and spent 2 wonderful evenings laughing around the campfire with them and their awesome kids. One of their [photos](https://www.instagram.com/p/BHBQdqcjoPb/) from that day even made Backpacker Magazine!
+* Had some trail magic in Zion: We were let into a group camping site with families from Idaho and LA/Pasadena and spent 2 wonderful evenings laughing around the campfire with them and their awesome kids. One of their [photos](https://www.instagram.com/p/BHBQdqcjoPb/) from that day even made Backpacker Magazine!
 * Tried and failed to get walk-in lottery permits to [The Wave](https://www.google.com/search?q=the+wave&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjT1b-_r83RAhVN5WMKHa-7AYAQ_AUICCgB&biw=1440&bih=799&dpr=2) 3 different days.
 * Synced up with some other travel nurse friends in Page, AZ to do lower Antelope Canyon.
 * Checked Horseshoe Bend and Monument Valley off our bucket list.
