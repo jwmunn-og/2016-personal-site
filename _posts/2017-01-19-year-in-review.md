@@ -295,7 +295,7 @@ When we lived in Reno and were planning on moving to LA we booked permits to hik
     </figure>
     <div class="half">
         <img src="/images/2016-year-review/bridge-of-the-gods.jpg" alt="Bridge of the Gods" />
-        <figcaption>Looking for PCT thru-hikes on the Bridge of the Gods crossing into Washington.</figcaption>
+        <figcaption>Looking for PCT thru-hikers on the Bridge of the Gods crossing into Washington.</figcaption>
     </div>
 </div>
 ![Trillium Lake](/images/2016-year-review/trillium-lake.jpg)
