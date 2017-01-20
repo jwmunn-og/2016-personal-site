@@ -28,9 +28,9 @@ If I had to choose one word for 2016 it would be **spectrum**. Highs, lows, inte
 
 I liked living in Reno. The climate is like Colorado, dry and sunny with a reasonable low cost of living. The tech scene is growing. Plus, it&rsquo;s centrally located to Lake Tahoe, Mammoth, and Yosemite (when Tioga Pass is open). Midtown is a cool area. There are good breweries but there aren't many good restaurants. I’d rate it up and coming.
 
-* Won some trivia nights at the [Little Waldorf](http://www.lilwal.com/) with our new friends Mark &amp; Shannon
+* Won some trivia nights at the [Little Waldorf](http://www.lilwal.com/) with our new friends Mark &amp; Shannon.
 * Has one of the best coffee roasters & shops I’ve tried: [Hub Coffee Roasters](http://www.hubcoffeeroasters.com/)
-* Sweet, amazing Airbnb host(s) Carol & Dennis
+* Sweet, amazing Airbnb host(s) Carol & Dennis.
 * They told us stories of the over 70 foster children they took in before Carol had grandchildren.
 * Carol also inherited a cabin in Montana that the *Unabomber* spent a winter. He stole their roof and a bunch of her dad's stuff when he finished his own cabin. Most of said stuff is now held as evidence by the FBI.
 * Watched way too many episodes of Reno 911. *So good.*
@@ -39,7 +39,7 @@ I liked living in Reno. The climate is like Colorado, dry and sunny with a reaso
 * Some friends and my parents came to visit.
 * Had an incredible season of snowboarding in Lake Tahoe and a long weekend in Salt Lake City, UT. So many powder days.
 * 30min drive from [Northstar](http://www.northstarcalifornia.com/) = Lots of ski days.
-* Met lots of awesome designers & developers at [Epicurrence&mdash;The Montues](/blog/epicurrence-montues/)
+* Met lots of awesome designers & developers at [Epicurrence&mdash;The Montues](/blog/epicurrence-montues/).
 * Found out Chandler, our 16 year old cat was irreversibly sick.
 * We spent much of these 4 months going back and forth to the vet and giving him treatment at home. He was put to sleep the day before we were supposed to move out. After it happened we couldn't stay there another night so we packed and moved out a day early.
 
@@ -83,7 +83,7 @@ I liked living in Reno. The climate is like Colorado, dry and sunny with a reaso
 
 After we left Reno we were heartbroken without anywhere to go. We were trying to move to Las Vegas or Los Angeles areas for the next contract but hadn’t heard anything back. Susan’s parents were going to a work conference in Palm Springs, CA so we headed that direction. Then we decided to float through the southwest until we heard something. It was a surreal experience. Beautiful landscapes during the day and grieving at night when it faded away.
 
-* Stayed in Bishop, CA. Visited the Ancient Bristlecone Forest
+* Stayed in Bishop, CA. Visited the Ancient Bristlecone Forest.
 * Drove to Death Valley National Park.
 * Got a flat tire on a primitive canyon road in Death Valley. *While moving.* Imagine taking your entire life out of the back of your car to reach the spare tire. Then jack your car, your only real possession, towards a cliff. It is starting to get dark and rain. Can you feel the pit in my stomach yet? This is the day after putting Chandler to sleep. All we could think is *&ldquo;WTF are we doing?&rdquo;*.
 * Pulled in to the closest town, Las Vegas on a donut at 3am. Got new tires put on the next day.
@@ -185,7 +185,7 @@ Susan got an offer and we didn’t have other options so we ended up in Grand Ju
 * Learned what temps over 110&deg; feel like for weeks on end.
 * Got out of our comfort zones and went to [Wanderlust](https://wanderlust.com/festivals/aspen-snowmass/), a yoga retreat in Aspen.
 * Climbed 7 CO 14ers. (Quandary Peak, Mt. Cameron, Mt. Lincoln, Mt. Bross, Mt. Sneffels, Mt. of the Holy Cross, Handies Peak)
-* Some took multiple attempts due to foul weather or lack of vehicle clearance
+* Some took multiple attempts due to foul weather or lack of vehicle clearance.
 * Rented a Jeep to drive up Cinnamon Pass to climb Handies Peak.
 * Learned it was more comfortable to sleep in our car at trailheads instead of setting up a tent.
 * Visited my Aunt and Uncle in Durango &amp; learned about his family ties to Silverton, CO. *Love them.*
@@ -252,7 +252,7 @@ Susan got an offer and we didn’t have other options so we ended up in Grand Ju
 
 When we lived in Reno and were planning on moving to LA we booked permits to hike Mt. Whitney, the highest peak in the lower 48. We spent the summer hiking at elevation and training. There was enough time between contracts to drive down to California and do it before heading back up the coast. This was our first strenuous overnight backpacking trip. Afterwards we floated back up to Seattle.
 
-* Visited Mammoth Lakes, CA and Rainbow Falls
+* Visited Mammoth Lakes, CA and Rainbow Falls.
 * Successfully camped at Trail Camp and summited Mt. Whitney.
 * Visited Yosemite but failed to obtain Half Dome permits.
 * Visited Bend, OR and Smith Rock State Park.
