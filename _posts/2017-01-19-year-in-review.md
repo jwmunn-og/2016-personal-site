@@ -244,7 +244,7 @@ Susan got an offer and we didn’t have other options so we ended up in Grand Ju
 
 <figure class="full-width">
     <img src="/images/2016-year-review/whitney-pano.jpg" alt="Eastern Sierras" />
-    <figcaption>Mt. Whitney from Trail Camp</figcaption>
+    <figcaption>Mt. Whitney view on the descent.</figcaption>
 </figure>
 
 ## In-between: California &amp; Oregon
