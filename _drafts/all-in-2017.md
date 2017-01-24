@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All In: 2017"
-date:   2017-01-23 12:00:00
+date:   2017-01-24 12:00:00
 permalink: blog/all-in-2017/
 tags: [life]
 archive-img: "/images/all-in-2017/mt-hood-thumb.jpg"
@@ -11,7 +11,7 @@ background: -webkit-linear-gradient(to top, rgba(0,0,0,.5) , rgba(0,0,0,0)), url
 background: linear-gradient(to top, rgba(0,0,0,.5), rgba(0,0,0,0)), url('/images/all-in-2017/mt-hood.jpg') no-repeat center top; background-size: cover;"
 ---
 
-2016 was a year full of politics, saying goodbye to heroes, and [personal&nbsp;growth](http://justinmunn.co/blog/2016-year-in-review). Going into the new year, it was time to stop dipping my toe in and go for it.  Time is fleeting and it’s time to carpe that fucking diem. While I was in NC for the holidays, I was able to spend a couple days with my co-founder Dave for a Pathfinder hackathon. We’ve been working on it for a while and are excited to release the beta in the next few months. I&rsquo;d spent years of self-teaching through free or inexpensive resources. The final leap was here, I decided to enroll into [The Firehose Project](http://www.thefirehoseproject.com/) coding bootcamp.
+2016 was a year full of politics, saying goodbye to heroes, and [personal&nbsp;growth](http://justinmunn.co/blog/2016-year-in-review). Going into the new year, it was time to stop dipping my toe in and go for it.  Time is fleeting and it’s time to carpe that fucking diem. While I was in NC for the holidays, I was able to spend a couple days with my co-founder Dave for a [Pathfinder](http://pathfinderhikes) hackathon. We’ve been working on it for a while and are excited to release the beta in the next few months. I&rsquo;d spent years of self-teaching code through [free](https://www.codecademy.com/jwmunn) or [inexpensive](https://teamtreehouse.com/justinmunn) resources. The final leap was here, I decided to enroll into [The Firehose Project](http://www.thefirehoseproject.com/) coding bootcamp.
 
 
 {% highlight ruby %}
@@ -45,7 +45,7 @@ The Firehose Project hit the sweet spot of accessibility and quality. I work rem
 
 ## 1 week in
 
-`Rails new`
+`rails new`
 
 During the first week of the course I built a web app using Ruby on Rails. It&rsquo;s for a random quote generator that also takes user input. This was a great review of the Model View Controller format of Rails and how to navigate, create and modify routes, controllers and views. `Rake routes` *all the things.* One lesson I picked up last week was maintaining 2 different databases in my local development and production heroku environments. Another was learning about how HTTP requests are handled + how to generate the appropriate assets to `GET`, `POST`, or use the `def resources` action to allow you to Create, Remove, Update, and Detroy data. Using this CRUD framework made managing the database of quotes in this app much easier.
 
