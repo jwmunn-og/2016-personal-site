@@ -13,10 +13,6 @@ background: linear-gradient(to top, rgba(0,0,0,.5), rgba(0,0,0,0)), url('/images
 
 2016 was a year full of politics, saying goodbye to heroes, and [personal growth](http://justinmunn.co/blog/2016-year-in-review). Going into the new year, it was time to stop dipping my toe in and jump into the new year head first.  Time is fleeting and it’s time to carpe that fucking diem. While I was in NC for the holidays I was able to spend a couple days with my co-founder Dave for a [Pathfinder](http://pathfinderhikes.com) hackathon. We’ve been working on it for a while and are excited to release the beta in the next few months. But the biggest leap was deciding after years of self-teaching through [free](https://www.codecademy.com/jwmunn) or [inexpensive](https://teamtreehouse.com/justinmunn) resources to enroll into the Firehose Project coding bootcamp.
 
-## Why The Firehose Project
-
-The Firehose Project hit the sweet spot of accessibility and quality. I work remotely as a web designer full-time and move about every 4 months for my wife’s job contracts. Quitting my job and staying in one location for 6 or more months wouldn’t work for me. After attending [Epicurrence](blog/epicurrenc) this past March, talking to lots of developers there and talking to Dave a theme started to emerge: Webapps, Ruby and Javascript. Looking at TFP’s programming focus on those languages, algorithms and a final complicated group project using AGILE development I decided to give it a shot. After completing the 2 week intro course to get accepted I was sold. Getting personalized feedback on coding challenges on both how something works and ways to refactor it to be more elegant felt incredible. The timing was good enough so I decided to [jump](should-vs-must) and join the dark side by moving from design to development.
-
 
 {% highlight ruby %}
 # My Foobar solution to get accepted into The Firehose Project
@@ -39,6 +35,12 @@ end
 
 puts foobar_pattern
 {% endhighlight %}
+
+## Why The Firehose Project
+
+The Firehose Project hit the sweet spot of accessibility and quality. I work remotely as a web designer full-time and move about every 4 months for my wife’s job contracts. Quitting my job and staying in one location for 6 or more months wouldn’t work for me. After attending [Epicurrence](blog/epicurrenc) this past March, talking to lots of developers there and talking to Dave a theme started to emerge: Webapps, Ruby and Javascript. Looking at TFP’s programming focus on those languages, algorithms and a final complicated group project using AGILE development I decided to give it a shot. After completing the 2 week intro course to get accepted I was sold. Getting personalized feedback on coding challenges on both how something works and ways to refactor it to be more elegant felt incredible. The timing was good enough so I decided to [jump](should-vs-must) and join the dark side by moving from design to development.
+
+![Grand Canyon](/images/2016-year-review/grand-canyon.jpg)
 
 ## 1 week in
 
