@@ -54,4 +54,4 @@ I’ve learned this is part of the journey. It’s not a single decision so much
 
 I’ll sign off with an [African proverb](https://instagram.com/elleluna/p/yfBKoAB-8y/) Elle Luna posted recently:
 
->If you want to go fast, go alone. If you want to go far, go together.
+> If you want to go fast, go alone. If you want to go far, go together.
