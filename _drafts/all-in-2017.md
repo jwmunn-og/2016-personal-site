@@ -41,7 +41,7 @@ puts foobar_pattern
 The Firehose Project hit the sweet spot of accessibility and quality. I work remotely as a web designer full-time and move about every 4 months for my wife’s job contracts. Quitting my job and staying in one location for 6 or more months wouldn’t work for me. Going $40-$60k more in debt for grad school wasn&rsquo;t happening either.  After attending [Epicurrence](blog/epicurrenc) this past March, talking to lots of developers there and talking to Dave a theme started to emerge: Webapps, Ruby and Javascript. Looking at TFP programming&rsquo;s focus on those languages, algorithms and a final complicated group project using AGILE development. I decided to give it a shot. After completing the 2 week intro course to get accepted I was sold. Getting personalized feedback on coding challenges with elegant refactor advice felt incredible. The timing was good enough so I decided to [jump](https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0).
 
 ![Jumping](/images/all-in-2017/jumping-loop2.gif)
-<figcaption>Glacial lakes are not warm.</figcaption>
+<figcaption>Glacial lakes feel glacial.</figcaption>
 
 ## 1 week in
 
