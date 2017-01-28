@@ -14,9 +14,9 @@ permalink: /about/
         <div class="half wrapper">
             <p>For the past 6 years, I&rsquo;ve been making a living as a designer and got the bug for coding websites back in 2011.</p>
             <h3>Brief History</h3>
-            <p>I was born and raised in South and North Carolina respectively. I&rsquo;m originally from Darlington, grew up in Rocky Mount, went to undergrad in Wilmington, and moved to Raleigh after graduation to begin my design career in 2010. While living in Raleigh I became a proud husband, uncle and cat dad. In June 2014 I started working remotely full-time and following my travel nurse wife <a href="http://susanandjustin.us">around the US</a>.</p>
+            <p>I was born and raised in South and North Carolina respectively. I&rsquo;m originally from Darlington, grew up in Rocky Mount, went to undergrad in Wilmington, and moved to Raleigh after graduation to begin my design career in 2010. While living in Raleigh I became a proud husband, and uncle. In June 2014, I started working remotely full-time and following my travel nurse wife <a href="http://susanandjustin.us">around the US</a>.</p>
             <h3>Current Status</h3>
-            <p>I&rsquo;m living in <del>Lewes,&nbsp;DE</del> <del>Denver,&nbsp;CO</del> <del>Sacramento,&nbsp;CA</del> <del>Seattle,&nbsp;WA</del> Reno, NV until the end of April. I spend as much time outside as possible hiking, camping and have a bit of a snowboarding problem. Lately I&rsquo;ve been getting my hands dirty learning ruby and javascript.</p>
+            <p>I&rsquo;m living in ~~Lewes,&nbsp;DE~~ ~~Denver,&nbsp;CO~~ ~~Sacramento,&nbsp;CA~~ ~~Seattle,&nbsp;WA~~ ~~Reno, NV~~ ~~Grand Junction, CO~~ *Seattle, WA* until April. I spend as much time outside as possible hiking, camping and have a bit of a snowboarding problem. I&rsquo;m currently apprenticing as a web developer building web apps with *ruby* and *javascript* with [The&nbsp;Firehose&nbsp;Project](http://www.thefirehoseproject.com/) until June 2017.</p>
             <h5>For more info take a look at <a href="https://www.linkedin.com/in/jwmunn">my résumé</a> or follow me on <a href="https://twitter.com/jwmunn">Twitter</a> and <a href="https://www.instagram.com/jwmunn/">Instagram</a></h5>  
         </div>
         <div class="half">
