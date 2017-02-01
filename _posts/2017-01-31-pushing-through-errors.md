@@ -38,7 +38,7 @@ There was an existing gem that integrated with Bootstrap 4&rsquo;s syntax online
 
 ## Contemplating Complexity
 
-My final thought of the second week is a higher level one brought up by my mentor. He introduced the idea of *Complexity* in computer science. He encouraged thinking about it as I come up with solutions. Decreasing complexity can improve the performance of my functions and apps. I&rsquo;ll be reading more on the subject and applying it to come up with a better solution to this reverse array challenge. One goal this week is to manipulates the original array instead of increasing complexity by creating a new array like my current solution:
+My final thought of the second week is a higher level one brought up by my mentor. He introduced the idea of *Complexity* in computer science. He encouraged thinking about it as I come up with solutions. Decreasing complexity can improve the performance of my functions and apps. I&rsquo;ll be reading more on the subject and applying it to come up with a better solution to this reverse array challenge. One goal this week is to manipulate the original array instead of increasing complexity by creating a new array like my current solution:
 
 {% highlight ruby %}
 # Looking for ways to reduce complexity in this solution
