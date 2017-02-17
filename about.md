@@ -26,8 +26,5 @@ permalink: /about/
         </div>
     </div>
 </section>
-<section id="contact">
-    <h2>I&rsquo;m available for hire. <a href="mailto:contact@justinmunn.co">Let&rsquo;s chat.</a></h2>
-</section>
 
 

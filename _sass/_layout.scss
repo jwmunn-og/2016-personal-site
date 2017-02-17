@@ -597,6 +597,13 @@ section {
     }
 }
 
+section#contact {
+   border-top: 2px solid #e8e8e8;
+   border-bottom: none;
+   margin-bottom: 0;
+   padding-bottom: 0;
+}
+
 .divider {
     border-bottom: 2px solid $grey-color-light;
     padding-bottom: $spacing-unit;
